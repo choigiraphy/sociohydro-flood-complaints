@@ -1,0 +1,21 @@
+name: sociohydro-flood-complaints
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - geopandas=0.11
+  - shapely
+  - fiona
+  - pyproj
+  - requests
+  - pip
+  - pip:
+      - torch==1.12.0
+      - transformers==4.21.0
+      - python-docx

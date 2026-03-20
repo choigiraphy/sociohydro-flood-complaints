@@ -1,0 +1,28 @@
+{
+  "title": "Sociohydro flood complaints reproducibility package",
+  "description": "Reproducibility package for the manuscript 'Event-dependent coupling between extreme rainfall and institutionalized civic response: Evidence from administrative complaints in South Korea'. The archive contains code, aggregated datasets, tables, figures, and documentation. Raw complaint texts are excluded because they are legally restricted under the ACRC data-use agreement and privacy law.",
+  "creators": [
+    {
+      "name": "Choi, G."
+    },
+    {
+      "name": "Kam, Jonghun"
+    },
+    {
+      "name": "Bae, Y."
+    },
+    {
+      "name": "Shin, H."
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "socio-hydrology",
+    "flood",
+    "civil complaints",
+    "emotion analysis",
+    "reproducibility"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}
