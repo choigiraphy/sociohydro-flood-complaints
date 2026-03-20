@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the manuscript and the archived repository release."
 title: "Sociohydro flood complaints reproducibility package"
 type: software
+version: "1.0.0"
 authors:
   - family-names: "Choi"
     given-names: "G."
@@ -14,6 +15,7 @@ authors:
 abstract: "Code, aggregated data, tables, and figure-generation scripts for reproducing the socio-hydrological analysis of flood complaints in South Korea."
 license: "MIT"
 repository-code: "https://github.com/choigiraphy/sociohydro-flood-complaints"
+doi: "10.5281/zenodo.19133036"
 keywords:
   - socio-hydrology
   - flood
