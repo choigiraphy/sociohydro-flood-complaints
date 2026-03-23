@@ -43,7 +43,7 @@ def build_figure(output_path: Path, table_path: Path, boundary_path: Path) -> No
     norm = mcolors.TwoSlopeNorm(vmin=-vmax, vcenter=0.0, vmax=vmax)
     cmap = plt.get_cmap("RdBu_r")
 
-    fig, axes = plt.subplots(2, 3, figsize=(18, 14))
+    fig, axes = plt.subplots(2, 3, figsize=(17.5, 13))
 
     for row_idx, period in enumerate(PERIOD_ORDER):
         for col_idx, emotion in enumerate(EMOTION_ORDER):
@@ -77,9 +77,18 @@ def build_figure(output_path: Path, table_path: Path, boundary_path: Path) -> No
                 )
 
             ax.axis("off")
-            ax.text(0.02, 0.98, PANEL_LABELS[row_idx][col_idx], transform=ax.transAxes, va="top", fontsize=22, fontweight="bold")
+            ax.text(
+                0.02,
+                0.98,
+                PANEL_LABELS[row_idx][col_idx],
+                transform=ax.transAxes,
+                va="top",
+                fontsize=18,
+                fontweight="bold",
+                bbox=dict(facecolor="white", edgecolor="none", pad=0.4, alpha=0.8),
+            )
             if row_idx == 0:
-                ax.set_title(EMOTION_TITLES[emotion], fontsize=24, fontweight="bold", pad=16)
+                ax.set_title(EMOTION_TITLES[emotion], fontsize=18, fontweight="bold", pad=10)
             if col_idx == 0:
                 ax.text(
                     -0.15,
@@ -89,19 +98,20 @@ def build_figure(output_path: Path, table_path: Path, boundary_path: Path) -> No
                     rotation=90,
                     va="center",
                     ha="center",
-                    fontsize=24,
+                    fontsize=20,
                     fontweight="bold",
                 )
 
     sm = plt.cm.ScalarMappable(cmap=cmap, norm=norm)
-    cbar = fig.colorbar(sm, ax=axes.ravel().tolist(), location="right", shrink=0.72, aspect=28, pad=0.03)
-    cbar.set_label(r"$\Delta$ Proportion (Flood $-$ Baseline)", fontsize=20, fontweight="bold", rotation=270, labelpad=28)
-    cbar.ax.tick_params(labelsize=16)
+    cax = fig.add_axes([0.885, 0.20, 0.020, 0.60])
+    cbar = fig.colorbar(sm, cax=cax)
+    cbar.set_label(r"$\Delta$ Proportion (Flood $-$ Baseline)", fontsize=17, fontweight="bold", rotation=270, labelpad=24)
+    cbar.ax.tick_params(labelsize=13)
 
     hatch_patch = Patch(facecolor="white", edgecolor="gray", hatch="////", label="Insufficient data (N < 5)")
-    fig.legend(handles=[hatch_patch], loc="lower right", bbox_to_anchor=(0.93, 0.03), fontsize=15, frameon=True)
+    fig.legend(handles=[hatch_patch], loc="lower right", bbox_to_anchor=(0.93, 0.03), fontsize=13, frameon=True)
 
-    plt.subplots_adjust(hspace=0.07, wspace=0.04)
+    plt.subplots_adjust(hspace=0.06, wspace=0.03, left=0.04, right=0.86, bottom=0.06, top=0.95)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(output_path, dpi=300, bbox_inches="tight")
     plt.close(fig)

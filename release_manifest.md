@@ -11,6 +11,10 @@
 - `code/`
 - `data/merged_daily_precip_complaints.csv`
 - `data/merged_weekly_precip_complaints.csv`
+- `data/public/minimal_reproducible_subset.csv`
+- `data/synthetic/synthetic_complaint_pipeline_input.csv`
+- `data/region_population_event_months.csv`
+- `data_processed/`
 - `tables/bootstrap_results.xlsx`
 - `tables/baseline_distribution_summary.xlsx`
 - `tables/threshold_sensitivity.xlsx`

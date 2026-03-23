@@ -1,6 +1,6 @@
 {
   "title": "Sociohydro flood complaints reproducibility package",
-  "description": "Reproducibility package for the manuscript 'Event-dependent coupling between extreme rainfall and institutionalized civic response: Evidence from administrative complaints in South Korea'. The archive contains code, aggregated datasets, tables, figures, and documentation. Raw complaint texts are excluded because they are legally restricted under the ACRC data-use agreement and privacy law.",
+  "description": "Reproducibility package for the manuscript 'Event-dependent coupling between extreme rainfall and institutionalized civic response: Evidence from administrative complaints in South Korea'. The archive contains code, aggregated datasets, figure-level processed source files, tables, figures, and documentation. Raw complaint texts are excluded because they are legally restricted under the ACRC data-use agreement and privacy law. Reproducibility is therefore provided at the highest shareable analytical level through de-identified aggregates, minimal reproducible subsets, synthetic smoke-test inputs, and figure-specific processed inputs.",
   "creators": [
     {
       "name": "Choi, G."
