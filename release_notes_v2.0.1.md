@@ -1,12 +1,12 @@
-# v2.0.0 — Processed Figure Sources and Restricted Reproducibility Package
+# v2.0.1 — Processed Figure Sources and Restricted Reproducibility Package
 
 This release provides the updated public reproducibility package for the manuscript:
 
 *Event-dependent coupling between extreme rainfall and institutionalized civic response: Evidence from administrative complaints in South Korea*
 
-Zenodo version DOI: [10.5281/zenodo.19176560](https://doi.org/10.5281/zenodo.19176560)
+Zenodo version DOI: [10.5281/zenodo.19176504](https://doi.org/10.5281/zenodo.19176504)
 
-## What is new in v2.0.0
+## What is new in v2.0.1
 
 - Added `data_processed/` with figure-level processed source files for manuscript Figures 2-7
 - Added a de-identified minimal reproducible subset:
