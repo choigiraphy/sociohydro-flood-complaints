@@ -7,7 +7,10 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import PercentFormatter
 import numpy as np
 import pandas as pd
-import seaborn as sns
+try:
+    import seaborn as sns
+except ImportError:  # pragma: no cover
+    sns = None
 
 
 FIG_DPI = 300
@@ -36,7 +39,8 @@ COMPARISON_ORDER = [
 
 
 def apply_lab_style() -> None:
-    sns.set_theme(style="whitegrid")
+    if sns is not None:
+        sns.set_theme(style="whitegrid")
     plt.rcParams.update(
         {
             "figure.facecolor": "white",

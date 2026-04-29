@@ -1,0 +1,201 @@
+﻿record_id,event_label,date,region,top1_emotion,top1_score,emotion_group,is_flood_window
+SYN_0001,Ordinary,2023-04-23,부산광역시,Anger/Rage,0.927783,anger_mistrust,False
+SYN_0002,Flood 2022,2022-03-10,서울특별시,Sad/Disappointed,0.884901,sadness_distress,True
+SYN_0003,Ordinary,2023-01-10,경상남도,Sad/Disappointed,0.74817,sadness_distress,True
+SYN_0004,Flood 2022,2023-11-08,전라남도,Embarrassment/Distress,0.912015,sadness_distress,True
+SYN_0005,Flood 2023,2022-11-25,경상북도,Gratitude,0.794017,expectation_other,True
+SYN_0006,Ordinary,2023-08-28,광주광역시,Absurd,0.883559,expectation_other,True
+SYN_0007,Flood 2023,2022-02-19,충청북도,Sad/Disappointed,0.942973,sadness_distress,True
+SYN_0008,Ordinary,2022-05-23,대구광역시,Sadness,0.569274,sadness_distress,False
+SYN_0009,Flood 2022,2023-06-27,울산광역시,Gratitude,0.877695,expectation_other,False
+SYN_0010,Flood 2023,2022-08-26,충청남도,Suspicion/Mistrust,0.756605,anger_mistrust,False
+SYN_0011,Flood 2022,2022-12-04,경상남도,Sadness,0.75931,sadness_distress,False
+SYN_0012,Flood 2023,2023-05-04,충청북도,Anxiety/Worried,0.916378,anxiety_fear,False
+SYN_0013,Ordinary,2022-03-12,광주광역시,Irritation,0.916194,expectation_other,False
+SYN_0014,Ordinary,2022-10-10,충청남도,Sadness,0.850298,sadness_distress,False
+SYN_0015,Flood 2022,2023-08-31,경상북도,Irritation,0.553239,expectation_other,True
+SYN_0016,Ordinary,2023-05-01,부산광역시,Sadness,0.893521,sadness_distress,True
+SYN_0017,Flood 2023,2023-01-05,세종특별자치시,Gratitude,0.611511,expectation_other,False
+SYN_0018,Flood 2023,2023-05-03,울산광역시,Anger/Rage,0.798704,anger_mistrust,False
+SYN_0019,Ordinary,2023-02-24,울산광역시,Absurd,0.793575,expectation_other,False
+SYN_0020,Ordinary,2022-08-10,세종특별자치시,Gratitude,0.742156,expectation_other,False
+SYN_0021,Flood 2022,2022-07-21,대전광역시,Suspicion/Mistrust,0.925497,anger_mistrust,False
+SYN_0022,Ordinary,2022-02-12,전라북도,Anxiety/Worried,0.679181,anxiety_fear,False
+SYN_0023,Flood 2023,2022-04-03,서울특별시,Expectation,0.894915,expectation_other,True
+SYN_0024,Flood 2023,2022-10-24,대전광역시,Irritation,0.623468,expectation_other,True
+SYN_0025,Flood 2022,2022-03-19,경기도,Embarrassment/Distress,0.867838,sadness_distress,True
+SYN_0026,Ordinary,2022-04-28,충청남도,Expectation,0.617017,expectation_other,True
+SYN_0027,Ordinary,2022-12-28,부산광역시,Expectation,0.717649,expectation_other,False
+SYN_0028,Ordinary,2023-04-06,세종특별자치시,Complaint,0.588566,complaint_dissatisfaction,False
+SYN_0029,Flood 2022,2022-09-05,충청북도,Embarrassment/Distress,0.949776,sadness_distress,False
+SYN_0030,Flood 2023,2022-07-14,전라남도,Sad/Disappointed,0.89265,sadness_distress,True
+SYN_0031,Ordinary,2023-07-30,부산광역시,Complaint,0.669786,complaint_dissatisfaction,False
+SYN_0032,Flood 2023,2023-10-21,경상남도,Anger/Rage,0.63904,anger_mistrust,False
+SYN_0033,Flood 2022,2023-08-14,세종특별자치시,Sad/Disappointed,0.62778,sadness_distress,False
+SYN_0034,Flood 2022,2023-07-08,부산광역시,Safe/Trust,0.740121,expectation_other,True
+SYN_0035,Flood 2023,2022-04-13,세종특별자치시,Complaint,0.835933,complaint_dissatisfaction,True
+SYN_0036,Ordinary,2022-10-31,전라남도,Anger/Rage,0.767356,anger_mistrust,False
+SYN_0037,Flood 2022,2023-04-28,경상남도,Anxiety/Worried,0.595497,anxiety_fear,False
+SYN_0038,Ordinary,2022-05-05,광주광역시,Irritation,0.805667,expectation_other,True
+SYN_0039,Flood 2023,2023-03-24,세종특별자치시,Expectation,0.560034,expectation_other,False
+SYN_0040,Flood 2023,2022-12-19,부산광역시,Suspicion/Mistrust,0.586401,anger_mistrust,True
+SYN_0041,Flood 2023,2023-05-05,부산광역시,Complaint,0.962644,complaint_dissatisfaction,False
+SYN_0042,Flood 2023,2022-12-12,전라남도,Gratitude,0.69589,expectation_other,False
+SYN_0043,Flood 2023,2023-09-13,부산광역시,Gratitude,0.559509,expectation_other,False
+SYN_0044,Flood 2022,2023-10-17,서울특별시,Sadness,0.793776,sadness_distress,False
+SYN_0045,Flood 2022,2023-05-02,울산광역시,Complaint,0.673743,complaint_dissatisfaction,False
+SYN_0046,Ordinary,2023-06-15,충청북도,Irritation,0.597406,expectation_other,True
+SYN_0047,Ordinary,2023-12-13,경상북도,Irritation,0.566462,expectation_other,False
+SYN_0048,Flood 2023,2022-09-28,광주광역시,Gratitude,0.905631,expectation_other,True
+SYN_0049,Flood 2022,2022-05-28,충청북도,Suspicion/Mistrust,0.678004,anger_mistrust,True
+SYN_0050,Ordinary,2022-07-06,충청북도,Gratitude,0.622427,expectation_other,True
+SYN_0051,Flood 2022,2022-08-07,대전광역시,Gratitude,0.986645,expectation_other,False
+SYN_0052,Flood 2022,2023-07-01,전라북도,Safe/Trust,0.943117,expectation_other,True
+SYN_0053,Flood 2023,2022-12-09,대구광역시,Anger/Rage,0.889685,anger_mistrust,False
+SYN_0054,Flood 2023,2022-09-30,충청남도,Irritation,0.878587,expectation_other,False
+SYN_0055,Flood 2022,2022-01-04,충청남도,Embarrassment/Distress,0.656027,sadness_distress,False
+SYN_0056,Flood 2022,2023-08-30,충청남도,Anger/Rage,0.628878,anger_mistrust,False
+SYN_0057,Flood 2023,2023-06-10,전라북도,Embarrassment/Distress,0.636431,sadness_distress,False
+SYN_0058,Ordinary,2023-07-22,대구광역시,Complaint,0.770326,complaint_dissatisfaction,True
+SYN_0059,Flood 2022,2023-11-14,강원도,Expectation,0.651049,expectation_other,False
+SYN_0060,Flood 2022,2023-05-10,충청북도,Anger/Rage,0.772785,anger_mistrust,False
+SYN_0061,Ordinary,2023-07-14,세종특별자치시,Suspicion/Mistrust,0.637901,anger_mistrust,True
+SYN_0062,Flood 2022,2023-06-07,경기도,Sadness,0.607665,sadness_distress,True
+SYN_0063,Flood 2022,2023-02-19,충청남도,Expectation,0.724934,expectation_other,True
+SYN_0064,Flood 2022,2022-12-23,서울특별시,Complaint,0.970474,complaint_dissatisfaction,True
+SYN_0065,Flood 2022,2023-12-03,충청남도,Gratitude,0.560938,expectation_other,True
+SYN_0066,Flood 2022,2023-04-08,전라북도,Gratitude,0.611749,expectation_other,False
+SYN_0067,Flood 2023,2022-01-05,충청북도,Sad/Disappointed,0.812259,sadness_distress,False
+SYN_0068,Ordinary,2023-08-11,대전광역시,Suspicion/Mistrust,0.895296,anger_mistrust,False
+SYN_0069,Flood 2022,2023-04-30,경기도,Safe/Trust,0.914949,expectation_other,False
+SYN_0070,Flood 2023,2022-06-19,대구광역시,Sadness,0.816647,sadness_distress,True
+SYN_0071,Ordinary,2023-07-04,세종특별자치시,Suspicion/Mistrust,0.731531,anger_mistrust,False
+SYN_0072,Ordinary,2022-11-07,경기도,Embarrassment/Distress,0.931696,sadness_distress,True
+SYN_0073,Flood 2023,2023-01-23,경상북도,Complaint,0.654131,complaint_dissatisfaction,True
+SYN_0074,Ordinary,2023-08-20,충청북도,Sad/Disappointed,0.579286,sadness_distress,False
+SYN_0075,Flood 2023,2022-09-19,경상남도,Expectation,0.912852,expectation_other,False
+SYN_0076,Ordinary,2022-04-16,충청남도,Complaint,0.622834,complaint_dissatisfaction,True
+SYN_0077,Flood 2022,2023-02-26,경상남도,Anger/Rage,0.600816,anger_mistrust,True
+SYN_0078,Ordinary,2022-02-10,경상북도,Absurd,0.573488,expectation_other,False
+SYN_0079,Flood 2023,2023-01-12,울산광역시,Expectation,0.723197,expectation_other,True
+SYN_0080,Ordinary,2023-01-04,인천광역시,Complaint,0.924498,complaint_dissatisfaction,True
+SYN_0081,Flood 2022,2022-12-26,경상남도,Gratitude,0.654168,expectation_other,False
+SYN_0082,Flood 2023,2023-02-21,충청북도,Anxiety/Worried,0.571672,anxiety_fear,False
+SYN_0083,Flood 2023,2023-11-07,서울특별시,Absurd,0.594736,expectation_other,False
+SYN_0084,Flood 2022,2022-02-07,대전광역시,Safe/Trust,0.59361,expectation_other,True
+SYN_0085,Ordinary,2023-08-08,충청남도,Safe/Trust,0.981011,expectation_other,False
+SYN_0086,Flood 2023,2023-07-24,울산광역시,Sadness,0.892758,sadness_distress,True
+SYN_0087,Flood 2022,2023-08-27,서울특별시,Sad/Disappointed,0.776258,sadness_distress,True
+SYN_0088,Ordinary,2022-12-04,전라남도,Safe/Trust,0.831408,expectation_other,False
+SYN_0089,Flood 2022,2022-02-14,경상남도,Anxiety/Worried,0.760266,anxiety_fear,False
+SYN_0090,Flood 2023,2022-06-19,대구광역시,Expectation,0.711213,expectation_other,False
+SYN_0091,Flood 2022,2022-11-13,대전광역시,Sad/Disappointed,0.851727,sadness_distress,False
+SYN_0092,Ordinary,2023-11-24,울산광역시,Complaint,0.761601,complaint_dissatisfaction,True
+SYN_0093,Flood 2022,2022-12-03,서울특별시,Sadness,0.923367,sadness_distress,False
+SYN_0094,Flood 2022,2023-08-11,서울특별시,Irritation,0.828484,expectation_other,True
+SYN_0095,Flood 2022,2022-05-10,인천광역시,Absurd,0.639058,expectation_other,True
+SYN_0096,Flood 2023,2023-09-21,충청남도,Sad/Disappointed,0.820327,sadness_distress,False
+SYN_0097,Flood 2022,2023-03-30,인천광역시,Irritation,0.587177,expectation_other,True
+SYN_0098,Ordinary,2022-04-11,충청북도,Suspicion/Mistrust,0.902389,anger_mistrust,True
+SYN_0099,Flood 2023,2022-11-21,전라남도,Embarrassment/Distress,0.899851,sadness_distress,True
+SYN_0100,Flood 2022,2022-07-04,인천광역시,Suspicion/Mistrust,0.591822,anger_mistrust,True
+SYN_0101,Flood 2023,2022-05-03,경상남도,Gratitude,0.798578,expectation_other,False
+SYN_0102,Flood 2023,2022-12-07,울산광역시,Gratitude,0.886126,expectation_other,True
+SYN_0103,Ordinary,2023-01-13,부산광역시,Suspicion/Mistrust,0.813821,anger_mistrust,False
+SYN_0104,Ordinary,2022-03-29,전라남도,Suspicion/Mistrust,0.588592,anger_mistrust,False
+SYN_0105,Flood 2023,2023-06-17,대전광역시,Expectation,0.890701,expectation_other,False
+SYN_0106,Ordinary,2022-09-01,인천광역시,Sad/Disappointed,0.885514,sadness_distress,True
+SYN_0107,Flood 2022,2023-08-04,대구광역시,Irritation,0.688354,expectation_other,False
+SYN_0108,Ordinary,2022-04-18,경기도,Anger/Rage,0.742678,anger_mistrust,True
+SYN_0109,Flood 2023,2022-04-04,인천광역시,Sad/Disappointed,0.793317,sadness_distress,True
+SYN_0110,Flood 2023,2023-07-24,세종특별자치시,Suspicion/Mistrust,0.715598,anger_mistrust,False
+SYN_0111,Ordinary,2022-01-04,인천광역시,Irritation,0.968526,expectation_other,False
+SYN_0112,Flood 2022,2023-09-13,충청남도,Anger/Rage,0.603646,anger_mistrust,True
+SYN_0113,Flood 2023,2022-01-24,울산광역시,Expectation,0.555413,expectation_other,False
+SYN_0114,Ordinary,2023-08-26,대전광역시,Expectation,0.751761,expectation_other,False
+SYN_0115,Flood 2023,2022-01-09,광주광역시,Complaint,0.954114,complaint_dissatisfaction,True
+SYN_0116,Flood 2023,2022-03-22,대전광역시,Sadness,0.936848,sadness_distress,True
+SYN_0117,Flood 2022,2023-07-22,전라북도,Sad/Disappointed,0.596825,sadness_distress,True
+SYN_0118,Flood 2022,2023-05-01,경상남도,Suspicion/Mistrust,0.589794,anger_mistrust,True
+SYN_0119,Ordinary,2023-09-23,강원도,Sad/Disappointed,0.655964,sadness_distress,False
+SYN_0120,Ordinary,2023-07-22,전라남도,Anger/Rage,0.950681,anger_mistrust,False
+SYN_0121,Flood 2023,2023-10-26,강원도,Complaint,0.552389,complaint_dissatisfaction,False
+SYN_0122,Ordinary,2023-03-19,충청북도,Absurd,0.654963,expectation_other,True
+SYN_0123,Ordinary,2022-06-28,강원도,Complaint,0.902424,complaint_dissatisfaction,True
+SYN_0124,Flood 2022,2023-07-18,전라북도,Suspicion/Mistrust,0.918711,anger_mistrust,True
+SYN_0125,Flood 2022,2022-11-30,경상북도,Expectation,0.604966,expectation_other,True
+SYN_0126,Flood 2023,2023-06-28,서울특별시,Gratitude,0.924498,expectation_other,True
+SYN_0127,Flood 2022,2023-08-17,인천광역시,Expectation,0.634938,expectation_other,False
+SYN_0128,Flood 2022,2023-06-03,서울특별시,Complaint,0.819079,complaint_dissatisfaction,True
+SYN_0129,Flood 2022,2022-02-21,세종특별자치시,Gratitude,0.568634,expectation_other,False
+SYN_0130,Flood 2023,2023-06-02,대전광역시,Safe/Trust,0.590357,expectation_other,False
+SYN_0131,Flood 2022,2022-10-02,충청북도,Sadness,0.751767,sadness_distress,True
+SYN_0132,Flood 2022,2023-04-10,전라북도,Sadness,0.613857,sadness_distress,True
+SYN_0133,Ordinary,2023-01-31,광주광역시,Anxiety/Worried,0.804328,anxiety_fear,True
+SYN_0134,Flood 2022,2023-04-19,부산광역시,Sad/Disappointed,0.615313,sadness_distress,True
+SYN_0135,Flood 2023,2023-05-20,대전광역시,Expectation,0.758634,expectation_other,False
+SYN_0136,Ordinary,2022-04-08,충청북도,Anger/Rage,0.68407,anger_mistrust,False
+SYN_0137,Flood 2023,2023-07-28,세종특별자치시,Irritation,0.829237,expectation_other,True
+SYN_0138,Flood 2022,2022-10-26,전라북도,Embarrassment/Distress,0.808855,sadness_distress,False
+SYN_0139,Flood 2022,2023-11-03,강원도,Irritation,0.734096,expectation_other,False
+SYN_0140,Flood 2022,2022-06-14,경기도,Expectation,0.79894,expectation_other,True
+SYN_0141,Ordinary,2023-02-04,울산광역시,Irritation,0.837071,expectation_other,True
+SYN_0142,Flood 2022,2023-07-29,대구광역시,Complaint,0.739824,complaint_dissatisfaction,True
+SYN_0143,Flood 2023,2023-01-20,대구광역시,Gratitude,0.775605,expectation_other,True
+SYN_0144,Flood 2023,2023-10-10,경상남도,Sad/Disappointed,0.771598,sadness_distress,True
+SYN_0145,Flood 2023,2022-07-16,전라남도,Sad/Disappointed,0.688358,sadness_distress,True
+SYN_0146,Flood 2023,2022-12-27,강원도,Safe/Trust,0.581706,expectation_other,False
+SYN_0147,Ordinary,2023-08-23,강원도,Safe/Trust,0.673469,expectation_other,True
+SYN_0148,Flood 2023,2022-05-07,인천광역시,Embarrassment/Distress,0.876785,sadness_distress,False
+SYN_0149,Flood 2022,2022-11-15,전라북도,Safe/Trust,0.926881,expectation_other,False
+SYN_0150,Ordinary,2022-04-23,경상북도,Embarrassment/Distress,0.602656,sadness_distress,True
+SYN_0151,Flood 2023,2023-01-02,충청북도,Gratitude,0.988004,expectation_other,False
+SYN_0152,Flood 2023,2022-08-16,전라남도,Sadness,0.860379,sadness_distress,True
+SYN_0153,Flood 2023,2023-11-07,울산광역시,Sadness,0.55472,sadness_distress,True
+SYN_0154,Ordinary,2023-01-19,부산광역시,Anxiety/Worried,0.622999,anxiety_fear,False
+SYN_0155,Ordinary,2023-11-03,충청북도,Expectation,0.794627,expectation_other,False
+SYN_0156,Ordinary,2023-12-24,울산광역시,Safe/Trust,0.747228,expectation_other,False
+SYN_0157,Flood 2023,2022-08-28,경기도,Safe/Trust,0.882345,expectation_other,False
+SYN_0158,Flood 2023,2022-12-09,충청남도,Expectation,0.629608,expectation_other,False
+SYN_0159,Ordinary,2023-11-18,강원도,Anxiety/Worried,0.652455,anxiety_fear,False
+SYN_0160,Flood 2022,2022-12-24,충청북도,Complaint,0.767048,complaint_dissatisfaction,True
+SYN_0161,Flood 2022,2022-07-16,경상북도,Absurd,0.921179,expectation_other,True
+SYN_0162,Flood 2023,2023-04-19,대전광역시,Irritation,0.885677,expectation_other,True
+SYN_0163,Flood 2022,2023-06-14,대구광역시,Irritation,0.787392,expectation_other,True
+SYN_0164,Ordinary,2023-09-09,대구광역시,Embarrassment/Distress,0.888196,sadness_distress,False
+SYN_0165,Ordinary,2022-09-28,서울특별시,Sad/Disappointed,0.950203,sadness_distress,False
+SYN_0166,Flood 2022,2023-09-13,대전광역시,Irritation,0.769479,expectation_other,False
+SYN_0167,Flood 2023,2023-01-13,경기도,Safe/Trust,0.725363,expectation_other,True
+SYN_0168,Flood 2023,2023-04-06,대전광역시,Suspicion/Mistrust,0.699096,anger_mistrust,False
+SYN_0169,Flood 2022,2022-07-09,강원도,Complaint,0.958083,complaint_dissatisfaction,True
+SYN_0170,Flood 2023,2022-08-13,경상남도,Expectation,0.553218,expectation_other,True
+SYN_0171,Flood 2022,2022-05-05,인천광역시,Embarrassment/Distress,0.828859,sadness_distress,True
+SYN_0172,Ordinary,2023-03-29,충청남도,Suspicion/Mistrust,0.88503,anger_mistrust,False
+SYN_0173,Ordinary,2023-01-12,인천광역시,Irritation,0.973813,expectation_other,True
+SYN_0174,Flood 2023,2023-09-25,경기도,Sadness,0.872262,sadness_distress,False
+SYN_0175,Flood 2023,2023-04-20,서울특별시,Sadness,0.837805,sadness_distress,False
+SYN_0176,Flood 2022,2023-12-20,경상남도,Suspicion/Mistrust,0.872852,anger_mistrust,False
+SYN_0177,Ordinary,2023-04-11,대구광역시,Suspicion/Mistrust,0.604503,anger_mistrust,False
+SYN_0178,Flood 2023,2023-07-22,충청북도,Absurd,0.983638,expectation_other,False
+SYN_0179,Flood 2023,2022-08-26,충청북도,Safe/Trust,0.731093,expectation_other,False
+SYN_0180,Flood 2023,2022-03-03,경상북도,Sadness,0.902906,sadness_distress,True
+SYN_0181,Ordinary,2022-11-21,전라북도,Complaint,0.566267,complaint_dissatisfaction,False
+SYN_0182,Ordinary,2022-02-05,대구광역시,Embarrassment/Distress,0.847134,sadness_distress,False
+SYN_0183,Ordinary,2023-04-25,전라남도,Sadness,0.930801,sadness_distress,True
+SYN_0184,Flood 2023,2023-08-08,대전광역시,Sad/Disappointed,0.653195,sadness_distress,False
+SYN_0185,Flood 2023,2022-06-20,전라북도,Anger/Rage,0.55198,anger_mistrust,True
+SYN_0186,Flood 2022,2023-05-10,서울특별시,Gratitude,0.726596,expectation_other,False
+SYN_0187,Ordinary,2023-03-22,울산광역시,Sad/Disappointed,0.65457,sadness_distress,False
+SYN_0188,Flood 2023,2022-09-12,전라남도,Safe/Trust,0.681535,expectation_other,True
+SYN_0189,Flood 2023,2022-11-24,대전광역시,Sad/Disappointed,0.670923,sadness_distress,True
+SYN_0190,Ordinary,2022-05-17,울산광역시,Safe/Trust,0.700448,expectation_other,False
+SYN_0191,Ordinary,2022-11-07,전라남도,Expectation,0.989447,expectation_other,True
+SYN_0192,Ordinary,2022-10-25,서울특별시,Complaint,0.802944,complaint_dissatisfaction,False
+SYN_0193,Ordinary,2023-09-17,인천광역시,Anxiety/Worried,0.811894,anxiety_fear,False
+SYN_0194,Flood 2023,2023-10-31,경상북도,Embarrassment/Distress,0.609121,sadness_distress,False
+SYN_0195,Flood 2023,2022-03-02,경기도,Anger/Rage,0.638871,anger_mistrust,True
+SYN_0196,Flood 2022,2022-11-27,충청북도,Absurd,0.701049,expectation_other,True
+SYN_0197,Flood 2023,2023-10-10,충청북도,Expectation,0.880864,expectation_other,True
+SYN_0198,Ordinary,2022-07-27,대구광역시,Gratitude,0.653443,expectation_other,True
+SYN_0199,Flood 2022,2023-10-13,충청남도,Gratitude,0.782999,expectation_other,True
+SYN_0200,Flood 2022,2023-03-08,세종특별자치시,Sad/Disappointed,0.681729,sadness_distress,True

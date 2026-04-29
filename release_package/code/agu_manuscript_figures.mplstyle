@@ -1,0 +1,40 @@
+figure.facecolor: white
+axes.facecolor: white
+savefig.facecolor: white
+savefig.dpi: 300
+savefig.bbox: tight
+
+font.family: DejaVu Sans
+font.size: 12
+axes.titlesize: 13
+axes.titleweight: semibold
+axes.labelsize: 12
+xtick.labelsize: 10.5
+ytick.labelsize: 10.5
+legend.fontsize: 10
+
+axes.edgecolor: 4A4A4A
+axes.linewidth: 0.9
+axes.labelcolor: 262B31
+xtick.color: 262B31
+ytick.color: 262B31
+text.color: 262B31
+
+xtick.major.width: 0.8
+ytick.major.width: 0.8
+xtick.major.size: 3.5
+ytick.major.size: 3.5
+
+axes.grid: True
+axes.axisbelow: True
+grid.color: DDE2E8
+grid.linewidth: 0.6
+grid.alpha: 1.0
+
+legend.frameon: False
+legend.borderaxespad: 0.4
+
+lines.linewidth: 2.0
+lines.markersize: 5.5
+patch.linewidth: 0.8
+
